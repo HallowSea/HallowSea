@@ -1,4 +1,8 @@
-## Hi there 👋
+## I'm Hallow ✨
+
+- 📸 Multimedia Artist
+- 🌐 Studying Web design & Programming
+- 👥 Head of an Online Media Department
 
 <!--
 **HallowSea/HallowSea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
